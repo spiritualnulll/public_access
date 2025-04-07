@@ -438,7 +438,6 @@ else
     fi
 fi
 
-
 # Section 24: Finalize installation
 verbose "SUCCESS" "Pterodactyl Panel has been successfully installed!"
 verbose "INFO" "Panel URL: https://${FQDN}"
